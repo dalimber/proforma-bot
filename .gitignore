@@ -1,0 +1,15 @@
+# Entorno virtual
+envi_appproforma/
+
+# Variables de entorno (claves secretas)
+.env
+
+# Archivos temporales
+temp/
+sessions/
+proformas/
+__pycache__/
+*.pyc
+
+# Archivo de prueba
+test_gemini.py
